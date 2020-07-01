@@ -50,7 +50,7 @@
 -------------------------------------------------------------- */
 .box_skitter .prev_button {
 	position: absolute;
-	top: 45%;
+	top: 45% !important;
 	left: 5% !important;
 	z-index: 9999;
 	width: 42px;
@@ -65,7 +65,7 @@
 
 .box_skitter .next_button {
 	position: absolute;
-	top: 45%;
+	top: 45% !important;
 	right: 5% !important;
 	z-index: 9999;
 	width: 42px;
@@ -194,7 +194,7 @@
 	-moz-border-radius: 30px;
 	-webkit-border-radius: 30px;
 	border-radius: 30px;
-	outline: 2px solid #fff;
+	outline: 0px solid #fff;
 }
 
 .box_skitter .info_slide_dots .image_number {
@@ -517,24 +517,21 @@
 }
 
 .skitter-round .prev_button {
-	background-position: -24px -0px;
-	width: 23px;
-	height: 47px;
-	left: 0px !important;
-	opacity: 1;
-}
-
-.skitter-round .next_button {
 	background-position: -0px -0px;
 	width: 23px;
 	height: 47px;
-	right: 0px!important;
-	opacity: 1;
-	
+	left: -80px;
+}
+
+.skitter-round .next_button {
+	background-position: -23px -0px;
+	width: 23px;
+	height: 47px;
+	right: -80px;
 }
 
 .skitter-round .next_button:hover, .skitter-round .prev_button:hover {
-	opacity: .5;
+	opacity: 1;
 }
 
 .skitter-round .play_pause_button {
@@ -732,7 +729,7 @@
 	width: 55px;
 	height: 55px;
 	top: 45%;
-	right: 5%!important;
+	right: 5%;
 	opacity: 0.5;
 }
 

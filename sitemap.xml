@@ -2,26 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
  <url>
   <loc>http://home.htm/index.html</loc>
-  <lastmod>2020-07-03T14:39Z</lastmod>
+  <lastmod>2020-07-13T00:49Z</lastmod>
  </url>
  <url>
   <loc>http://home.htm/about us.html</loc>
-  <lastmod>2020-07-03T14:39Z</lastmod>
+  <lastmod>2020-07-13T00:49Z</lastmod>
  </url>
  <url>
   <loc>http://home.htm/services.html</loc>
-  <lastmod>2020-07-03T14:39Z</lastmod>
+  <lastmod>2020-07-13T00:49Z</lastmod>
  </url>
  <url>
   <loc>http://home.htm/construction services.html</loc>
-  <lastmod>2020-07-03T14:39Z</lastmod>
+  <lastmod>2020-07-13T00:49Z</lastmod>
  </url>
  <url>
   <loc>http://home.htm/engineering services.html</loc>
-  <lastmod>2020-07-03T14:39Z</lastmod>
+  <lastmod>2020-07-13T00:49Z</lastmod>
  </url>
  <url>
-  <loc>http://home.htm/engineering services-a.html</loc>
-  <lastmod>2020-07-03T14:39Z</lastmod>
+  <loc>http://home.htm/testing and commsioning.html</loc>
+  <lastmod>2020-07-13T00:49Z</lastmod>
+ </url>
+ <url>
+  <loc>http://home.htm/events.html</loc>
+  <lastmod>2020-07-13T00:49Z</lastmod>
+ </url>
+ <url>
+  <loc>http://home.htm/calendar.html</loc>
+  <lastmod>2020-07-13T00:49Z</lastmod>
+ </url>
+ <url>
+  <loc>http://home.htm/gallery.html</loc>
+  <lastmod>2020-07-13T00:49Z</lastmod>
+ </url>
+ <url>
+  <loc>http://home.htm/contact us.html</loc>
+  <lastmod>2020-07-13T00:49Z</lastmod>
  </url>
 </urlset>

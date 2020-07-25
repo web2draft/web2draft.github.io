@@ -59,10 +59,3 @@ a:active .xr_ro {opacity:0;}
 .xr_nb1 {position: relative;}
 .xr_nb1:after {content: ''; position: absolute; top: 50%; right: .5em; height: 0px; width: 0px; border: 5px solid transparent; margin-top: -5px; margin-right: -3px; border-color: transparent; border-left-color: inherit;}
 .xr_apb {display:block; position:absolute;}
-.xr_c_R=235_G=235_B=235_2 {color:#EBEBEB;}
-.xr_c_R=219_G=219_B=219 {color:#DBDBDB;}
-.xr_c_R=199_G=199_B=199 {color:#C7C7C7;}
-.xr_c_R=166_G=166_B=166 {color:#A6A6A6;}
-.xr_c_R=255_G=255_B=255 {color:#FFFFFF;}
-.xr_c_R=255_G=152_B=185 {color:#FF98B9;}
-.xr_c_R=0_G=0_B=0 {color:#000000;}

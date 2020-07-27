@@ -862,6 +862,7 @@ a:hover .xr_1a_13, .xr_0a_13 {-webkit-animation-name: tr13; animation-name: tr13
   }
 
   100% {
+    zoom: 1;
     transform: none;
   }
 }
@@ -924,6 +925,7 @@ a:hover .xr_1a_13, .xr_0a_13 {-webkit-animation-name: tr13; animation-name: tr13
   }
 
   100% {
+    zoom: 1;
     transform: none;
   }
 }
@@ -986,6 +988,7 @@ a:hover .xr_1a_13, .xr_0a_13 {-webkit-animation-name: tr13; animation-name: tr13
   }
 
   100% {
+    zoom: 1;
     transform: none;
   }
 }
@@ -1048,6 +1051,7 @@ a:hover .xr_1a_13, .xr_0a_13 {-webkit-animation-name: tr13; animation-name: tr13
   }
 
   100% {
+    zoom: 1;
     transform: translate3d(0, 0, 0);
   }
 }
